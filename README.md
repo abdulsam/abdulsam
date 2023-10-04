@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! 👋 I'm Abdus Samad</h1>
-<h3 align="center">👨‍🎓 Research Scholar at <a href="https://vit.ac.in/">VIT University, Vellore</a> | 🧠 Crafting Intelligent Solutions with AI & Deep Learning</h3>
+<h3 align="center">👨‍🎓 Research Scholar at <a href="https://vit.ac.in/"> VIT University, Vellore </a> | 🧠 Crafting Intelligent Solutions with AI & Deep Learning</h3>
 <!--
 **abdulsam/abdulsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
