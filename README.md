@@ -15,7 +15,9 @@
 
 👨‍💻 Right now I'm looking for a job opportunity.
 
-# 📊 GitHub Stats:
+📊 GitHub Stats:
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=abdulsam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulsam&theme=dark&hide_border=false)<br/>
+-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
