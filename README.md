@@ -5,9 +5,9 @@
 -->
 
 ## 🌟 About Me:
-#### 📚 My Ph.D. research centers on optimizing CNNs for smaller parameter counts and FLOPs while maintaining accuracy.
+#### 📚 My Ph.D. research centers on optimizing and designing CNNs for smaller parameter counts and FLOPs while maintaining accuracy.
 
-📖 I'm keen on exploring multi-model neural networks, representation learning, and am interested in exploring Large Language Models (LLMs) at scale.
+📖 I'm keen on exploring multi-model neural networks, and representation learning, and I am interested in exploring large-scale Large Language Models (LLMs).
 
 👯 I’m always open to meaningful collaborations.
 
