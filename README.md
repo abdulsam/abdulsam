@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdus Samad</h1>
-<h3 align="center">🚀 Cloud Engineer @ Rapid Circle | 🎓 Research Scholar @ VIT University | 🤖 AI & Deep Learning Enthusiast</h3>
+<h3 align="center">🤖 AI Systems Enthusiast - Researching and Engineering Next-Gen LLM Workflows | 🚀 Cloud Engineer @ Rapid Circle | 🎓 Previously Research @ VIT University</h3>
 
 ---
 
