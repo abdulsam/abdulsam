@@ -17,7 +17,7 @@
 - 💼 Currently working as **Cloud Engineer at Rapid Circle, Pune**  
 - 🎓 Pursuing **Ph.D. in Computer Science and Engineering at VIT University, Vellore**  
 - 🔬 My research interests include **Large Language Models (LLMs)**, **Computer Vision**, **Deep Learning**, and **Agentic Systems**  
-- 🧠 Proficient in **MLOps**, **Retrieval-Augmented Generation (RAG)**, and **LLM Preference Alignment (RLHF)**  
+- ✅ Proficient in **MLOps**, **Retrieval-Augmented Generation (RAG)**, and **LLM Preference Alignment (RLHF)**  
 - 🧠 Passionate about combining **AI research** with **cloud-native applications**
 - 🤝 Always open to connect with researchers and engineers working on **LLM Optimization** and **Optimizing AI Systems**
 
