@@ -79,10 +79,8 @@
 ---
 
 ### 🌱 What I'm Currently Exploring
-- ⚙️ Compound AI systems and modular agentic architectures  
-- 🧠 Scaling laws for Large Language Models  
-- ☁️ Cloud-native AI model deployment and observability  
-
+- ⚙️ Compound AI systems and modular agentic architectures
+  
 ---
 
 ### 💬 Let's Collaborate On
@@ -94,7 +92,7 @@
 
 ### 🧩 Professional Engagement
 - Facilitated research paper discussions, seminars, and webinars for **CellStrat AI Community**  
-- Founded **TechMeetUp (MH20)** – a local research and technology discussion group  
+- Founded **[TechMeetUp (MH20)](https://www.linkedin.com/company/techmeetup-mh20/)** – a research and technology community for Chhatrapati Sambhajinagar (Aurangabad)
 - Participated twice in the **ODSC India Conference**
 
 ---
